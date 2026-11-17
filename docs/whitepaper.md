@@ -6,7 +6,7 @@ hide_table_of_contents: true
 description: "A white paper urging local government to prepare Isla Vista for a zombie outbreak, with a four-step plan, a cost analysis, and student survey results."
 ---
 
-# Defending our Home: Preparing Isla Vista for the Incoming Zombie Hordes
+# Kilgore Trout, 1907–1981
 
 <div className="byline">
   <span>**Kenneth Smith**<br/>UC Santa Barbara</span>
