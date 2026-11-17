@@ -18,7 +18,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'zombie',
-      label: 'Defending our Home',
+      label: 'Kilgore Trout, 1907–1981',
       className: 'sidebar-paper-title',
     },
     {
