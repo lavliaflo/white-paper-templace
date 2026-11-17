@@ -7,9 +7,9 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
+  url: 'https://lavliaflo.github.io',
+  baseUrl: '/white-paper-templace/',
+  organizationName: 'lavliaflo',
   projectName: 'student_template',
   trailingSlash: false,
   onBrokenLinks: 'throw',
