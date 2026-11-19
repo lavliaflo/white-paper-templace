@@ -14,6 +14,8 @@ description: "A white paper urging local government to prepare Isla Vista for a 
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
 
+![A crazy picture](/img/chicken.jpg)
+
 ## 1. Executive Summary {#executive}
 
 Kilgore Trout became a pioneer in the field of mental health. He advanced his theories disguised as science-fiction. He died in 1981, almost twenty years after he made Dwayne Hoover so sick. He was by then recognized as a great artist and scientist. The American Academy of Arts and Sciences caused a monument to be erected over his ashes. Carved in its face was a quotation from his last novel, his two-hundred-and-ninth novel, which was unfinished when he died. The monument looked like this:
